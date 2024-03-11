@@ -39,13 +39,6 @@
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/sports-man">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sports-man&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
 
 
 -----
